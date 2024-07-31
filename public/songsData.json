@@ -1,0 +1,244 @@
+[
+	{
+		"key": "1",
+		"stars": "2",
+		"isPlaylist": false,
+		"SongDuration": "03:20",
+		"bookMark": true,
+		"isAddedActive": "",
+		"isLikeActive": "",
+		"isStarsActive": "active",
+		"songName": "this is test song",
+		"singerName": "JJ",
+		"imageName": "p1.jpg",
+		"genre": "acoustic",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502375674/Bedtime_Stories.mp3"
+	},
+	{
+		"key": "2",
+		"stars": "3",
+		"isPlaylist": true,
+		"SongDuration": "04:20",
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "",
+		"isStarsActive": "active",
+		"songName": "Jannon",
+		"singerName": "Ali azmat",
+		"imageName": "p2.jpg",
+		"genre": "ambient",
+		"songSrc": "https://res.cloudinary.com/ehsanahmadi/video/upload/v1573550770/Sirvan-Khosravi-Dorost-Nemisham-128_kb8urq.mp3"
+	},
+	{
+		"key": "3",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"SongDuration": "05:20",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "p3.jpg",
+		"genre": "blues",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "4",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "5",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "6",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "7",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "8",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},	
+	{
+		"key": "9",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "10",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "11",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "12",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "13",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "14",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "15",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	},
+	{
+		"key": "16",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"songName": "Marhaba",
+		"singerName": "Ali Zain",
+		"imageName": "a2.png",
+		"genre": "classical",
+		"songSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+
+	}
+
+]

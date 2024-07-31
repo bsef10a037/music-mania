@@ -1,0 +1,98 @@
+[
+	{
+		"playlistName": "playlist 1",
+		"key": "1",
+		"stars": "2",
+		"isPlaylist": true,
+		"SongDuration": "03:20",
+		"bookMark": true,
+		"isAddedActive": "",
+		"isLikeActive": "",
+		"isStarsActive": "active",
+		"playlistImage": "p1.jpg",
+		"songs": [
+			{
+				"key": "1",
+				"name": "this is test song",
+				"singer": "JJ",
+				"cover": "p1.jpg",
+				"musicSrc": "http://res.cloudinary.com/alick/video/upload/v1502375674/Bedtime_Stories.mp3"
+			},
+			{
+				"key": "2",
+				"name": "Jannon",
+				"singer": "Ali azmat",
+				"cover": "p2.jpg",
+				"musicSrc": "https://res.cloudinary.com/ehsanahmadi/video/upload/v1573550770/Sirvan-Khosravi-Dorost-Nemisham-128_kb8urq.mp3"
+			}
+		]
+	},
+	{
+		"playlistName": "playlist 2",
+		"key": "2",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"SongDuration": "05:20",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"playlistImage": "p2.jpg",
+		"bookMark": true,
+		"songs": [
+			{
+				"key": "3",
+				"name": "Marhaba",
+				"singer": "Ali Zain",
+				"cover": "p3.jpg",
+				"musicSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+	
+			},
+			{
+				"key": "4",
+				"name": "Marhaba",
+				"singer": "Ali Zain",
+				"cover": "a2.png",
+				"musicSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+			},
+			{
+				"key": "5",
+				"name": "Marhaba",
+				"singer": "Ali Zain",
+				"cover": "a2.png",
+				"musicSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+	
+			}
+		]
+	},
+	{
+		"playlistName": "playlist 3",
+		"key": "3",
+		"stars": "4",
+		"isPlaylist": true,
+		"bookMark": false,
+		"isAddedActive": "",
+		"isLikeActive": "active",
+		"isStarsActive": "active",
+		"playlistImage": "p3.jpg",
+		"bookMark": false,
+		"songs": [
+			{
+				"key": "6",
+				"name": "Marhaba",
+				"singer": "Ali Zain",
+				"cover": "a2.png",
+				"musicSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+	
+			},
+			{
+				"key": "7",
+				"name": "Marhaba",
+				"singer": "Ali Zain",
+				"cover": "a2.png",
+				"musicSrc": "http://res.cloudinary.com/alick/video/upload/v1502689683/Luis_Fonsi_-_Despacito_ft._Daddy_Yankee_uyvqw9.mp3"
+	
+			}
+		]
+	}
+]
